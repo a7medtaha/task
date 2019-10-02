@@ -1,0 +1,638 @@
+
+[
+  {
+    "brand": "Audi",
+    "logo": "https://moneyinc.com/wp-content/uploads/2018/06/Audi-Logo-750x422.jpg",
+    "models":
+    [
+      {
+            "name":   "100",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/1994_Audi_100_E_2.0_Front.jpg",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "200",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/1991_Audi_200_quattro_20V_turbo.jpg",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "BMW",
+    "logo": "http://www.car-brand-names.com/wp-content/uploads/2015/04/BMW-logo.png",
+    "models":
+    [
+      {
+            "name":   "128i",
+            "image": "https://m.media-amazon.com/images/I/71g5umKyCqL._UY560_.jpg",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "135i",
+          "image": "https://img.sm360.ca/ir/w940/images/inventory/dilawri-group-of-companies/bmw/135i/2012/6142336/6142336_02833_TR_c9016ec5-200d-464f-a244-d9a37a89f695.jpg",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Chevrolet",
+    "logo": "https://www.chevrolet.com/content/dam/chevrolet/na/us/english/primary-navigation-icons/chevrolet-logo.png",
+    "models":
+    [
+      {
+            "name":   "Astro",
+            "image": "https://inventory-cf.assets-cdk.com/3/9/7/19026398793.jpg",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Aveo",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/2013_Chevrolet_Aveo%2C_Malang_%28cropped%29.jpg",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Daewoo",
+    "logo": "https://pbs.twimg.com/profile_images/1037218816957263872/__SrbwPz_400x400.jpg",
+    "models":
+     [
+      {
+            "name":   "Lanos",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/2001_Daewoo_Lanos_%28T150%29_Sport_3-door_hatchback_%282010-06-17%29_01.jpg",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Nubira",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/1999_Daewoo_Nubira_%28J100%29_SE_sedan_%282015-07-03%29_01.jpg",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Dodge",
+    "logo": "https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/af25015f46e153e99f4bb815179d56be/large.JPG",
+    "models":
+     [
+      {
+            "name":   "400",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/%2782_Dodge_400_Coupe_%28Orange_Julep%29.JPG",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "600",
+          "image": "https://i.wheelsage.org/pictures/d/dodge/600_turbo_sedan/dodge_600_turbo_sedan.jpeg",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Ferrari",
+    "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0016/3050/brand.gif?itok=nUHQfgTq",
+    "models":
+    [
+          {
+                "name":   "Mondial",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+                "branches":
+                [
+                  {
+                  "name": "cario_branch_name",
+                  "address": "cario_branch_addres",
+                  "lat": 30.043489 ,
+                  "lng": 31.235291
+                }
+                ,
+                {
+                  "name": "aswan_branch_name",
+                  "address": "aswan_branch_addres",
+                  "lat": 24.088410,
+                  "lng": 32.898940
+              }
+              ]
+          }
+          ,
+          {
+              "name": "Testarossa",
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+              "branches":[
+                {
+                "name": "cario_branch_name",
+                "address": "cario_branch_addres",
+                "lat": 30.043489 ,
+                "lng": 31.235291
+              }
+              ,
+              {
+                "name": "aswan_branch_name",
+                "address": "aswan_branch_addres",
+                "lat": 24.088410,
+                "lng": 32.898940
+            }
+            ]
+          }
+    ]
+  }
+  ,
+  {
+    "brand": "FIAT",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNOnnkutdVDNeCvP_rybbC9JuYJ1goLjawZgMf2vDPYhxMch9W",
+    "models":
+     [
+      {
+            "name":   "500",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "2000 Spider",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Honda",
+    "logo": "https://i.pinimg.com/originals/7f/3a/fb/7f3afb88712a75ef397ae98968a72a1c.jpg",
+    "models":
+    [
+      {
+            "name":   "Accord",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Civic",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Hyundai",
+    "models":
+    [
+      {
+            "name":   "Azera",
+            "image": "http://www.blogcdn.com/de.autoblog.com/media/2013/11/hyundai-logo.jpg",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Accent",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Kia",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ67dyPm-1OAsKxw2m1RQXqachNLxC-olsBa7f-7L_JRG2V-w-",
+    "models":
+     [
+      {
+            "name":   "Borrego",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Amanti",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+      "brand": "Tesla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGCAxYxnMnWwtgbyTiRDe_wrpu0k44gRhW1BMW7wpNG9P-CYby",
+    "logo": "",
+    "models":
+    [
+      {
+            "name":   "Roadster",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Model S",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Toyota",
+    "logo": "https://i3-img.kabeleins.de/pis/ezone/becfqgELB38wdEB0AB1fHPDQCtTDCJ4UYl_Ic-IXCoYylZ0mXbP3Z8_B4JBo6LCimhDa22AtrTM8DB_M9Svm2P1b_8UdFuI7yBdFn_zBIrhTnWxh_hezAdxrD0P0mLb0rUEMZljLB-87TR4ACp71-4Bz4Z4_Fz_RxAOj6WzuapwzgxiwZ6km/profile:ezone-teaser620x348?source",
+    "models":
+    [
+      {
+            "name":   "Camry",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "Corolla",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+        ]
+  }
+  ,
+  {
+    "brand": "Volvo",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9cJh9CUv_pzOZACs54YKlFat-uS9ReF1Q-TpkAX7q_jruKUTl",
+    "models":
+    [
+      {
+            "name":   "240",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+            "branches":
+            [
+              {
+              "name": "cario_branch_name",
+              "address": "cario_branch_addres",
+              "lat": 30.043489 ,
+              "lng": 31.235291
+            }
+            ,
+            {
+              "name": "aswan_branch_name",
+              "address": "aswan_branch_addres",
+              "lat": 24.088410,
+              "lng": 32.898940
+          }
+          ]
+      }
+      ,
+      {
+          "name": "260",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/No_image_3x4.svg/1280px-No_image_3x4.svg.png",
+          "branches":
+          [
+            {
+            "name": "cario_branch_name",
+            "address": "cario_branch_addres",
+            "lat": 30.043489 ,
+            "lng": 31.235291
+          }
+          ,
+          {
+            "name": "aswan_branch_name",
+            "address": "aswan_branch_addres",
+            "lat": 24.088410,
+            "lng": 32.898940
+        }
+        ]
+      }
+    ]
+  }
+]
